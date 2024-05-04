@@ -6,13 +6,20 @@ I conducted a comprehensive analysis of YouTube data utilizing various tools and
 
 # Approach:
 **Data Extraction**: Utilized Python to fetch data from the YouTube API, leveraging libraries such as pandas and requests for efficient data retrieval.
+
 **Data Cleaning and Preprocessing**: Employed Microsoft Excel to clean the data, handling missing values, duplicates, and formatting issues to ensure data integrity.
+
 **Exploratory Data Analysis (EDA) and Manipulation**: Conducted in-depth analysis using Python, with libraries like pandas and NumPy, to explore the data, identify trends, and derive insights through statistical analysis.
+
 **Data Visualization**: Created interactive dashboards using Tableau to visually represent key findings, making it easy to understand and interpret the insights derived from the analysis.
+
 # Findings:
 **Trending Topics**: Identified popular content categories and topics based on view counts, likes, and comments.
+
 **User Engagement**: Analyzed engagement metrics such as likes, comments, and shares to understand user interaction with YouTube content.
+
 **Audience Demographics**: Explored audience demographics to determine the age, gender, and geographical distribution of viewers.
+
 **Content Performance**: Evaluated the performance of different types of content formats (e.g., videos, live streams) and their impact on user engagement.
 
 # Conclusion:
